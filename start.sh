@@ -1,0 +1,1 @@
+java -jar ./raid50.jar 2>./result.txt

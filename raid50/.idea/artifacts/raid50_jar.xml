@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="raid50:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="raid50.jar">
+      <element id="module-output" name="raid50" />
+    </root>
+  </artifact>
+</component>
